@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about fullstack development in all its aspects.\
 ✍️ &nbsp;In my free time, I play badminton, read on religion, self-help and practice boxing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at abdullahaak06@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at abdullahaak06@gmail.com. I will respond within 3 working days.\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1e_uvCvHxkIAr9B8Ov7sbdpOC43VlUnU9/view?usp=sharing) for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
