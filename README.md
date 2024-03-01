@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm an associate software engineer, working on production of classified apps with the Ruby on Rails framework. \
+💡 &nbsp; I'm an associate software engineer, working on production of classified apps with the Ruby on Rails framework. I'm also simultaenously working on a dropshipping web app using Sveltekit.\
 🎓&nbsp;I graduated from Lahore University of Management Sciences, Lahore (Bachelors in Science, Computer Science, Batch of 2023).\
 🌱 &nbsp;I'm on track for learning more about fullstack development in all its aspects.\
 ✍️ &nbsp;In my free time, I play badminton, read on religion, self-help and practice boxing as my hobbies.\
