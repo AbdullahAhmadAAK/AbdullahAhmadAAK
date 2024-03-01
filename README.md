@@ -34,5 +34,5 @@
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/abdullah-ahmad-70b1bb13b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://stackoverflow.com/users/19407338/abdullah-ahmad"><img alt="Stack Overflow" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://stackoverflow.com/users/19407338/abdullah-ahmad"><img alt="Stack Overflow" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fstack-overflow-icon-2048x2048-7ohycn5z.png&tbnid=zl_wn4oubSbYyM&vet=12ahUKEwjY_Lz9hdSEAxV6T6QEHR1FCcYQMygGegQIARB7..i&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F240376%2Fstack-overflow&docid=9-tyLMbDsRPzFM&w=2048&h=2048&q=stack%20overflow&ved=2ahUKEwjY_Lz9hdSEAxV6T6QEHR1FCcYQMygGegQIARB7"/></a> &nbsp;
 <a href="mailto:abdullahaak06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
