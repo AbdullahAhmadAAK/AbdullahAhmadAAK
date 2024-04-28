@@ -3,13 +3,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm an associate software engineer, working on production of classified apps with the Ruby on Rails framework. I'm also simultaenously working on a dropshipping web app using Sveltekit.\
+💡 &nbsp; I'm an aspiring full-stack software engineer, working on production of classified apps with the Ruby on Rails framework. I'm also simultaenously working on a dropshipping web app using Sveltekit.\
 🎓&nbsp;I graduated from Lahore University of Management Sciences, Lahore (Bachelors in Science, Computer Science, Batch of 2023).\
 🌱 &nbsp;I'm on track for learning more about fullstack development in all its aspects.\
 ✍️ &nbsp;In my free time, I play badminton, read on religion, self-help and practice boxing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at abdullahaak06@gmail.com. I will respond within 3 working days.\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1OpLWN5LYTUdT2B18txudqnF4mcvll5_g/view?usp=sharing) for more details about work experience.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1q-cM3LZdd6XC-RR9LgEiv3OBk2rA5cOa/view?usp=sharing) for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
 
