@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm an aspiring full-stack software engineer, working on production of classified apps with SvelteKit and MERN Stack. I'm also simultaenously learning a bit of Artificial Intelligence and Machine Learning.\
+💡 &nbsp; I'm an aspiring full-stack software engineer, working on production of web apps with Next.JS and SvelteKit. Nowadays, I'm actively exploring Liveblocks for a web3 collaborative art editor project.\
 🎓&nbsp;I graduated from Lahore University of Management Sciences, Lahore (Bachelors in Science, Computer Science, Batch of 2023).\
 🌱 &nbsp;I'm on track for learning more about fullstack development in all its aspects.\
 ✍️ &nbsp;In my free time, I play badminton, read on religion, self-help and practice boxing as my hobbies.\
